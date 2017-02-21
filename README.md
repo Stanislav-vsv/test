@@ -1,2 +1,2 @@
-# test
-Test progect
+## test project
+Test project for study
